@@ -1,2 +1,3 @@
 # Tic-Tac-Toe
-beginner java class - final project
+
+java / javafx - graphical tic tac toe game
